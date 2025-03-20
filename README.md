@@ -44,9 +44,9 @@ npm run dev
 
 
 App views
-![app1](https://github.com/user-attachments/assets/628ad340-71f4-4ae3-8aac-17361c8038c9)
 
-![app2](https://github.com/user-attachments/assets/374fdd14-aa9f-439d-9a7d-4761b5aff7dd)
+![app1](https://github.com/user-attachments/assets/628ad340-71f4-4ae3-8aac-17361c8038c9)
+  ![app2](https://github.com/user-attachments/assets/374fdd14-aa9f-439d-9a7d-4761b5aff7dd)
 
 ## Development
 
