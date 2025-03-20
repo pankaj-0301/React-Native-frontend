@@ -12,7 +12,7 @@ export default function SignIn() {
     useEffect(() => {
         GoogleSignin.configure({
             scopes: ['https://www.googleapis.com/auth/drive.readonly'],
-            webClientId: '198854333724-bp02k8fi57i7g3nidp4gpm2b9eoug28t.apps.googleusercontent.com',
+            webClientId: process.env.webclientID,
         });
 
         // Check if user is already signed in
