@@ -58,6 +58,4 @@ const filtered = transactions.filter(t =>
 await AsyncStorage.setItem('transactions', JSON.stringify(transactions));
 ```
 
-## License
 
-MIT License
